@@ -1,4 +1,4 @@
-# Task Strategie
+# Task Strategie (bei Klassen)
 
 Lese die Aufgabe und suche die Klassen :)
 
