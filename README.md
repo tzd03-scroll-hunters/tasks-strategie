@@ -16,6 +16,7 @@ Kopiere dir den TASK TEXT zu der Funktion in die Funktion als Text-Kommentar rei
 Und dann übersetze den Text, Step by Step / Zeile für Zeile, in Code.
 
 Achtung:
-Achte darauf, ob im Task steht, dass eine Funktion etwas ZURÜCKGEBEN soll (=> also return) oder etwas AUSGEBEN soll (=> console.log)
+Achte darauf, ob im Task steht, dass eine Funktion etwas ZURÜCKGEBEN soll (=> also return) oder etwas AUSGEBEN soll (=> console.log).
+Wenn es unklar ist, immer den Lehrer bitten, es zu klären :)
 
 🌞 SCHÖNES WOCHENENDE 🌞
