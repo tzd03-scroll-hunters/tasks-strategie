@@ -6,6 +6,18 @@ Erstelle erstmal die Klasse mit allen Feldern und Methoden.
 
 Alle Methoden geben erstmal nur Dummy Output / keine Logic.
 
+Beispiele:
+```
+getProductSum() {
+  return 100;
+}
+
+getProductInfoText() {
+   return "Super schöner Informationstext"
+}
+
+```
+
 Achtung:
 Achte darauf, ob im Task steht, dass eine Funktion etwas ZURÜCKGEBEN soll (=> also return) oder etwas AUSGEBEN soll (=> console.log).
 Wenn es unklar ist, immer den Lehrer bitten, es zu klären :)
