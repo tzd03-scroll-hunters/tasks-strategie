@@ -20,7 +20,7 @@
  * INPUT: ARRAY => ARRAY von Objects
  * OUTPUT: ARRAY => ARRAY von Objects (nur die Früchte, die süß sind)
  * 
- * LOGIK: Oder wie komme ich INPUT zu OUTPUT??
+ * LOGIK: Oder wie komme ich von INPUT zu OUTPUT??
  * 
  * Step 1: Von einem Array zu einem anderen Array 
  * => ich soll etwas mit einem Array machen. Dann brauche ich zu 99% eine LOOP!
@@ -47,7 +47,12 @@
  * items.filter => check and return for each item if sweet
  * 
  * FINAL code
- * items.filter((item) => item.sweet )
+ const getSweetFruits = () => {
+   return items.filter((item) => item.sweet )
+ }
+ * TEST the code:
+ const sweetFruits = getSweetFruits()
+ console.log( sweetFruits );
  */
 
 
